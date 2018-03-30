@@ -1,0 +1,135 @@
+[23-Jul-2017 16:39:47 Asia/Calcutta] PHP Fatal error:  Class 'Models\GST' not found in /home/thenexte/public_html/sms_tile_zone/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php on line 487
+[23-Jul-2017 16:40:43 Asia/Calcutta] PHP Fatal error:  Class 'Models\GST' not found in /home/thenexte/public_html/sms_tile_zone/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php on line 487
+[23-Jul-2017 16:40:44 Asia/Calcutta] PHP Fatal error:  Class 'Models\GST' not found in /home/thenexte/public_html/sms_tile_zone/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php on line 487
+[23-Jul-2017 16:40:44 Asia/Calcutta] PHP Fatal error:  Class 'Models\GST' not found in /home/thenexte/public_html/sms_tile_zone/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php on line 487
+[23-Jul-2017 16:40:45 Asia/Calcutta] PHP Fatal error:  Class 'Models\GST' not found in /home/thenexte/public_html/sms_tile_zone/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php on line 487
+[23-Jul-2017 16:40:46 Asia/Calcutta] PHP Fatal error:  Class 'Models\GST' not found in /home/thenexte/public_html/sms_tile_zone/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php on line 487
+[23-Jul-2017 16:41:11 Asia/Calcutta] PHP Fatal error:  Class 'Models\GST' not found in /home/thenexte/public_html/sms_tile_zone/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php on line 487
+[23-Jul-2017 16:41:12 Asia/Calcutta] PHP Fatal error:  Class 'Models\GST' not found in /home/thenexte/public_html/sms_tile_zone/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php on line 487
+[23-Jul-2017 16:41:18 Asia/Calcutta] PHP Fatal error:  Class 'Models\GST' not found in /home/thenexte/public_html/sms_tile_zone/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php on line 487
+[23-Jul-2017 16:41:37 Asia/Calcutta] PHP Fatal error:  Class 'Models\GST' not found in /home/thenexte/public_html/sms_tile_zone/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php on line 487
+[23-Jul-2017 16:41:38 Asia/Calcutta] PHP Fatal error:  Class 'Models\GST' not found in /home/thenexte/public_html/sms_tile_zone/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php on line 487
+[23-Jul-2017 16:41:59 Asia/Calcutta] PHP Fatal error:  Class 'Models\Gst' not found in /home/thenexte/public_html/sms_tile_zone/application/controllers/Billing.php on line 15
+[23-Jul-2017 16:42:09 Asia/Calcutta] PHP Fatal error:  Class 'Models\Gst' not found in /home/thenexte/public_html/sms_tile_zone/application/controllers/Billing.php on line 15
+[23-Jul-2017 16:43:29 Asia/Calcutta] PHP Fatal error:  Class 'Models\GST' not found in /home/thenexte/public_html/sms_tile_zone/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php on line 487
+[23-Jul-2017 16:44:58 Asia/Calcutta] PHP Fatal error:  Class 'Models\GST' not found in /home/thenexte/public_html/sms_tile_zone/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php on line 487
+[23-Jul-2017 16:44:59 Asia/Calcutta] PHP Fatal error:  Class 'Models\GST' not found in /home/thenexte/public_html/sms_tile_zone/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php on line 487
+[01-Sep-2017 13:58:31 Asia/Calcutta] PHP Fatal error:  Cannot redeclare School::index() in /home/thenexte/public_html/devstairs.com/application/controllers/School.php on line 25
+[01-Sep-2017 14:03:11 Asia/Calcutta] PHP Fatal error:  Call to undefined method Grocery_CRUD::get_state() in /home/thenexte/public_html/devstairs.com/application/controllers/School.php on line 32
+[01-Sep-2017 14:03:12 Asia/Calcutta] PHP Fatal error:  Call to undefined method Grocery_CRUD::get_state() in /home/thenexte/public_html/devstairs.com/application/controllers/School.php on line 32
+[04-Sep-2017 14:00:36 Asia/Calcutta] PHP Fatal error:  Call to undefined method Attendence::checkIfEntryValid() in /home/thenexte/public_html/devstairs.com/application/controllers/Attendence.php on line 16
+[04-Sep-2017 14:05:08 Asia/Calcutta] PHP Fatal error:  Class 'Models\Cards' not found in /home/thenexte/public_html/devstairs.com/application/controllers/Attendence.php on line 20
+[04-Sep-2017 14:05:33 Asia/Calcutta] PHP Fatal error:  Class 'Models\Cards' not found in /home/thenexte/public_html/devstairs.com/application/controllers/Attendence.php on line 22
+[04-Sep-2017 14:14:02 Asia/Calcutta] PHP Fatal error:  Class 'App\Libs\AnotherClass' not found in /home/thenexte/public_html/devstairs.com/App/Libs/StudentAttendence.php on line 4
+[04-Sep-2017 14:14:14 Asia/Calcutta] PHP Fatal error:  Class 'App\Libs\Models\Cards' not found in /home/thenexte/public_html/devstairs.com/App/Libs/StudentAttendence.php on line 17
+[04-Sep-2017 14:15:05 Asia/Calcutta] PHP Fatal error:  Call to private method App\Libs\StudentAttendence::getCardId() from context 'Attendence' in /home/thenexte/public_html/devstairs.com/application/controllers/Attendence.php on line 21
+[04-Sep-2017 14:15:06 Asia/Calcutta] PHP Fatal error:  Call to private method App\Libs\StudentAttendence::getCardId() from context 'Attendence' in /home/thenexte/public_html/devstairs.com/application/controllers/Attendence.php on line 21
+[09-Sep-2017 15:31:07 Asia/Calcutta] PHP Fatal error:  Call to undefined function toggleStatusAndReturn() in /home/thenexte/public_html/devstairs.com/application/controllers/Attendence.php on line 35
+[09-Sep-2017 15:32:29 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'toggleStatusAndReturn' (T_STRING), expecting variable (T_VARIABLE) in /home/thenexte/public_html/devstairs.com/App/Libs/StudentAttendence.php on line 31
+[09-Sep-2017 15:32:31 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'toggleStatusAndReturn' (T_STRING), expecting variable (T_VARIABLE) in /home/thenexte/public_html/devstairs.com/App/Libs/StudentAttendence.php on line 31
+[09-Sep-2017 19:00:16 Asia/Calcutta] PHP Fatal error:  Class 'App\Resp\Factory' not found in /home/thenexte/public_html/devstairs.com/application/controllers/Machine.php on line 17
+[09-Sep-2017 19:00:34 Asia/Calcutta] PHP Fatal error:  Class 'App\Libs\Factory' not found in /home/thenexte/public_html/devstairs.com/application/controllers/Machine.php on line 17
+[09-Sep-2017 19:00:36 Asia/Calcutta] PHP Fatal error:  Class 'App\Libs\Factory' not found in /home/thenexte/public_html/devstairs.com/application/controllers/Machine.php on line 17
+[09-Sep-2017 19:02:03 Asia/Calcutta] PHP Fatal error:  Class 'returnResp' not found in /home/thenexte/public_html/devstairs.com/application/controllers/Machine.php on line 17
+[09-Sep-2017 19:02:04 Asia/Calcutta] PHP Fatal error:  Class 'returnResp' not found in /home/thenexte/public_html/devstairs.com/application/controllers/Machine.php on line 17
+[09-Sep-2017 21:32:12 Asia/Calcutta] PHP Fatal error:  Using $this when not in object context in /home/thenexte/public_html/devstairs.com/App/Libs/StudentAttendence.php on line 16
+[09-Sep-2017 21:32:13 Asia/Calcutta] PHP Fatal error:  Using $this when not in object context in /home/thenexte/public_html/devstairs.com/App/Libs/StudentAttendence.php on line 16
+[09-Sep-2017 21:32:14 Asia/Calcutta] PHP Fatal error:  Using $this when not in object context in /home/thenexte/public_html/devstairs.com/App/Libs/StudentAttendence.php on line 16
+[09-Sep-2017 21:47:15 Asia/Calcutta] PHP Fatal error:  Class 'Models\Students' not found in /home/thenexte/public_html/devstairs.com/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php on line 487
+[09-Sep-2017 21:48:21 Asia/Calcutta] PHP Fatal error:  Class 'Models\Students' not found in /home/thenexte/public_html/devstairs.com/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php on line 487
+[09-Sep-2017 22:01:58 Asia/Calcutta] PHP Fatal error:  Call to undefined function App\Libs\getStudentInfo() in /home/thenexte/public_html/devstairs.com/App/Libs/StudentAttendence.php on line 23
+[09-Sep-2017 22:01:59 Asia/Calcutta] PHP Fatal error:  Call to undefined function App\Libs\getStudentInfo() in /home/thenexte/public_html/devstairs.com/App/Libs/StudentAttendence.php on line 23
+[09-Sep-2017 22:02:00 Asia/Calcutta] PHP Fatal error:  Call to undefined function App\Libs\getStudentInfo() in /home/thenexte/public_html/devstairs.com/App/Libs/StudentAttendence.php on line 23
+[09-Sep-2017 22:14:39 Asia/Calcutta] PHP Fatal error:  Class 'Models\Attendence' not found in /home/thenexte/public_html/devstairs.com/App/Libs/StudentAttendence.php on line 25
+[09-Sep-2017 22:30:15 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'where' (T_STRING) in /home/thenexte/public_html/devstairs.com/App/Libs/StudentAttendence.php on line 36
+[09-Sep-2017 22:30:42 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'where' (T_STRING) in /home/thenexte/public_html/devstairs.com/App/Libs/StudentAttendence.php on line 36
+[09-Sep-2017 22:30:43 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'where' (T_STRING) in /home/thenexte/public_html/devstairs.com/App/Libs/StudentAttendence.php on line 36
+[09-Sep-2017 22:30:44 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'where' (T_STRING) in /home/thenexte/public_html/devstairs.com/App/Libs/StudentAttendence.php on line 36
+[09-Sep-2017 22:30:44 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'where' (T_STRING) in /home/thenexte/public_html/devstairs.com/App/Libs/StudentAttendence.php on line 36
+[09-Sep-2017 22:30:44 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'where' (T_STRING) in /home/thenexte/public_html/devstairs.com/App/Libs/StudentAttendence.php on line 36
+[09-Sep-2017 22:30:44 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'where' (T_STRING) in /home/thenexte/public_html/devstairs.com/App/Libs/StudentAttendence.php on line 36
+[09-Sep-2017 22:31:05 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '>=' (T_IS_GREATER_OR_EQUAL) in /home/thenexte/public_html/devstairs.com/App/Libs/StudentAttendence.php on line 37
+[10-Sep-2017 21:20:27 Asia/Calcutta] PHP Fatal error:  Call to a member function toArray() on integer in /home/thenexte/public_html/devstairs.com/App/Libs/StudentAttendence.php on line 42
+[10-Sep-2017 21:20:28 Asia/Calcutta] PHP Fatal error:  Call to a member function toArray() on integer in /home/thenexte/public_html/devstairs.com/App/Libs/StudentAttendence.php on line 42
+[10-Sep-2017 21:20:29 Asia/Calcutta] PHP Fatal error:  Call to a member function toArray() on integer in /home/thenexte/public_html/devstairs.com/App/Libs/StudentAttendence.php on line 42
+[11-Sep-2017 14:00:33 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/thenexte/public_html/devstairs.com/App/Libs/StudentAttendence.php on line 39
+[11-Sep-2017 14:03:09 Asia/Calcutta] PHP Fatal error:  Using $this when not in object context in /home/thenexte/public_html/devstairs.com/App/Libs/StudentAttendence.php on line 45
+[11-Sep-2017 14:06:29 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',' in /home/thenexte/public_html/devstairs.com/application/controllers/Attendence.php on line 53
+[11-Sep-2017 14:06:41 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '{' in /home/thenexte/public_html/devstairs.com/application/controllers/Attendence.php on line 53
+[20-Sep-2017 20:36:29 Asia/Calcutta] PHP Fatal error:  Using $this when not in object context in /home/zedbilgy/public_html/devstairs.com/application/helpers/email_helper.php on line 6
+[20-Sep-2017 20:36:39 Asia/Calcutta] PHP Fatal error:  Call to undefined method Attendence::getCardDetails() in /home/zedbilgy/public_html/devstairs.com/application/helpers/email_helper.php on line 6
+[20-Sep-2017 20:36:39 Asia/Calcutta] PHP Fatal error:  Call to undefined method Attendence::getCardDetails() in /home/zedbilgy/public_html/devstairs.com/application/helpers/email_helper.php on line 6
+[20-Sep-2017 20:42:11 Asia/Calcutta] PHP Fatal error:  Class 'Models\Student' not found in /home/zedbilgy/public_html/devstairs.com/application/helpers/email_helper.php on line 20
+[20-Sep-2017 20:42:13 Asia/Calcutta] PHP Fatal error:  Class 'Models\Student' not found in /home/zedbilgy/public_html/devstairs.com/application/helpers/email_helper.php on line 20
+[20-Sep-2017 20:43:09 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) in /home/zedbilgy/public_html/devstairs.com/Models/Students.php on line 9
+[20-Sep-2017 20:43:10 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) in /home/zedbilgy/public_html/devstairs.com/Models/Students.php on line 9
+[20-Sep-2017 20:43:26 Asia/Calcutta] PHP Fatal error:  Class 'Models\Classes' not found in /home/zedbilgy/public_html/devstairs.com/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php on line 487
+[20-Sep-2017 20:43:27 Asia/Calcutta] PHP Fatal error:  Class 'Models\Classes' not found in /home/zedbilgy/public_html/devstairs.com/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php on line 487
+[12-Nov-2017 17:00:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/thehee3f/public_html/vnrinstitute.com/vendor/illuminate/support/helpers.php on line 509
+[12-Nov-2017 17:00:29 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/thehee3f/public_html/vnrinstitute.com/vendor/illuminate/support/helpers.php on line 509
+[12-Nov-2017 17:00:30 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/thehee3f/public_html/vnrinstitute.com/vendor/illuminate/support/helpers.php on line 509
+[12-Nov-2017 17:02:16 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/thehee3f/public_html/vnrinstitute.com/vendor/illuminate/support/helpers.php on line 509
+[12-Nov-2017 17:02:16 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/thehee3f/public_html/vnrinstitute.com/vendor/illuminate/support/helpers.php on line 509
+[12-Nov-2017 17:02:17 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/thehee3f/public_html/vnrinstitute.com/vendor/illuminate/support/helpers.php on line 509
+[12-Nov-2017 17:02:17 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/thehee3f/public_html/vnrinstitute.com/vendor/illuminate/support/helpers.php on line 509
+[12-Nov-2017 17:06:20 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/thehee3f/public_html/vnrinstitute.com/vendor/illuminate/support/helpers.php on line 509
+[12-Nov-2017 17:06:21 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/thehee3f/public_html/vnrinstitute.com/vendor/illuminate/support/helpers.php on line 509
+[17-Nov-2017 16:21:32 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/thehee3f/public_html/vnrinstitute.com/vendor/illuminate/support/helpers.php on line 509
+[17-Nov-2017 16:21:34 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/thehee3f/public_html/vnrinstitute.com/vendor/illuminate/support/helpers.php on line 509
+[17-Nov-2017 16:29:57 Asia/Calcutta] PHP Fatal error:  Call to undefined function at() in /home/thehee3f/public_html/vnrinstitute.com/application/views/admin/partials/footer.php on line 55
+[17-Nov-2017 16:30:02 Asia/Calcutta] PHP Fatal error:  Call to undefined function at() in /home/thehee3f/public_html/vnrinstitute.com/application/views/admin/partials/footer.php on line 55
+[17-Nov-2017 16:30:15 Asia/Calcutta] PHP Fatal error:  Call to undefined function at() in /home/thehee3f/public_html/vnrinstitute.com/application/views/admin/partials/footer.php on line 55
+[17-Nov-2017 16:30:57 Asia/Calcutta] PHP Fatal error:  Call to undefined function at() in /home/thehee3f/public_html/vnrinstitute.com/application/views/admin/partials/footer.php on line 54
+[17-Nov-2017 16:31:09 Asia/Calcutta] PHP Fatal error:  Call to undefined function at() in /home/thehee3f/public_html/vnrinstitute.com/application/views/admin/partials/footer.php on line 54
+[17-Nov-2017 16:31:11 Asia/Calcutta] PHP Fatal error:  Call to undefined function at() in /home/thehee3f/public_html/vnrinstitute.com/application/views/admin/partials/footer.php on line 54
+[17-Nov-2017 16:33:12 Asia/Calcutta] PHP Fatal error:  Call to undefined function at() in /home/thehee3f/public_html/vnrinstitute.com/application/views/admin/partials/footer.php on line 54
+[17-Nov-2017 16:33:19 Asia/Calcutta] PHP Fatal error:  Call to undefined function at() in /home/thehee3f/public_html/vnrinstitute.com/application/views/admin/partials/footer.php on line 54
+[17-Nov-2017 16:33:23 Asia/Calcutta] PHP Fatal error:  Call to undefined function at() in /home/thehee3f/public_html/vnrinstitute.com/application/views/admin/partials/footer.php on line 54
+[17-Nov-2017 16:33:28 Asia/Calcutta] PHP Fatal error:  Call to undefined function at() in /home/thehee3f/public_html/vnrinstitute.com/application/views/admin/partials/footer.php on line 54
+[17-Nov-2017 16:33:29 Asia/Calcutta] PHP Fatal error:  Call to undefined function at() in /home/thehee3f/public_html/vnrinstitute.com/application/views/admin/partials/footer.php on line 54
+[17-Nov-2017 16:33:59 Asia/Calcutta] PHP Fatal error:  Call to undefined function at() in /home/thehee3f/public_html/vnrinstitute.com/application/views/admin/partials/footer.php on line 54
+[17-Nov-2017 16:35:16 Asia/Calcutta] PHP Fatal error:  Call to undefined function at() in /home/thehee3f/public_html/vnrinstitute.com/application/views/admin/partials/footer.php on line 54
+[17-Nov-2017 16:36:10 Asia/Calcutta] PHP Fatal error:  Call to undefined function at() in /home/thehee3f/public_html/vnrinstitute.com/application/views/admin/partials/footer.php on line 54
+[17-Nov-2017 16:36:27 Asia/Calcutta] PHP Fatal error:  Call to undefined function at() in /home/thehee3f/public_html/vnrinstitute.com/application/views/admin/partials/footer.php on line 54
+[17-Nov-2017 16:36:28 Asia/Calcutta] PHP Fatal error:  Call to undefined function at() in /home/thehee3f/public_html/vnrinstitute.com/application/views/admin/partials/footer.php on line 54
+[17-Nov-2017 16:43:06 Asia/Calcutta] PHP Fatal error:  Call to undefined function at() in /home/thehee3f/public_html/vnrinstitute.com/application/views/admin/partials/footer.php on line 52
+[17-Nov-2017 16:43:08 Asia/Calcutta] PHP Fatal error:  Call to undefined function at() in /home/thehee3f/public_html/vnrinstitute.com/application/views/admin/partials/footer.php on line 52
+[17-Nov-2017 16:43:14 Asia/Calcutta] PHP Fatal error:  Call to undefined function at() in /home/thehee3f/public_html/vnrinstitute.com/application/views/admin/partials/footer.php on line 52
+[17-Nov-2017 16:43:16 Asia/Calcutta] PHP Fatal error:  Call to undefined function at() in /home/thehee3f/public_html/vnrinstitute.com/application/views/admin/partials/footer.php on line 52
+[20-Nov-2017 19:30:08 Asia/Calcutta] PHP Fatal error:  Class 'Models\Students' not found in /home/thehee3f/public_html/vnrinstitute.com/application/controllers/Student.php on line 17
+[20-Nov-2017 19:30:23 Asia/Calcutta] PHP Fatal error:  Class 'Models\Students' not found in /home/thehee3f/public_html/vnrinstitute.com/application/controllers/Student.php on line 17
+[20-Nov-2017 19:31:43 Asia/Calcutta] PHP Fatal error:  Class 'Models\Students' not found in /home/thehee3f/public_html/vnrinstitute.com/application/controllers/Student.php on line 17
+[20-Nov-2017 19:32:09 Asia/Calcutta] PHP Fatal error:  Class 'Models\Students' not found in /home/thehee3f/public_html/vnrinstitute.com/application/controllers/Student.php on line 17
+[20-Nov-2017 19:32:25 Asia/Calcutta] PHP Fatal error:  Class 'Models\Students' not found in /home/thehee3f/public_html/vnrinstitute.com/application/controllers/Student.php on line 17
+[20-Nov-2017 19:33:19 Asia/Calcutta] PHP Fatal error:  Class 'Models\Students' not found in /home/thehee3f/public_html/vnrinstitute.com/application/controllers/Student.php on line 17
+[20-Nov-2017 19:34:36 Asia/Calcutta] PHP Fatal error:  Class 'Models\Students' not found in /home/thehee3f/public_html/vnrinstitute.com/application/controllers/Student.php on line 17
+[20-Nov-2017 19:42:30 Asia/Calcutta] PHP Fatal error:  Class 'Models\Students' not found in /home/thehee3f/public_html/vnrinstitute.com/application/controllers/Student.php on line 17
+[20-Nov-2017 19:56:54 Asia/Calcutta] PHP Fatal error:  Class 'Models\Students' not found in /home/thehee3f/public_html/vnrinstitute.com/application/controllers/Student.php on line 17
+[20-Nov-2017 21:13:47 Asia/Calcutta] PHP Fatal error:  Class 'Models\Students' not found in /home/thehee3f/public_html/vnrinstitute.com/application/controllers/Student.php on line 17
+[20-Nov-2017 21:14:26 Asia/Calcutta] PHP Fatal error:  Class 'Models\Students' not found in /home/thehee3f/public_html/vnrinstitute.com/application/controllers/Student.php on line 17
+[26-Nov-2017 15:03:01 Asia/Calcutta] PHP Fatal error:  Class 'Models\CoursePages' not found in /home/thehee3f/public_html/vnrinstitute.com/application/helpers/data_helper.php on line 162
+[26-Nov-2017 15:03:25 Asia/Calcutta] PHP Fatal error:  Class 'Models\CoursePages' not found in /home/thehee3f/public_html/vnrinstitute.com/application/helpers/data_helper.php on line 162
+[26-Nov-2017 17:46:30 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/thehee3f/public_html/vnrinstitute.com/application/libraries/Tank_auth.php on line 52
+[27-Nov-2017 00:06:08 Asia/Calcutta] PHP Fatal error:  Call to undefined function courses() in /home/thehee3f/public_html/vnrinstitute.com/application/views/page/courses.php on line 10
+[27-Nov-2017 00:06:08 Asia/Calcutta] PHP Fatal error:  Call to undefined function courses() in /home/thehee3f/public_html/vnrinstitute.com/application/views/page/courses.php on line 10
+[27-Nov-2017 00:06:58 Asia/Calcutta] PHP Fatal error:  Call to undefined function courses() in /home/thehee3f/public_html/vnrinstitute.com/application/views/page/courses.php on line 10
+[27-Nov-2017 00:06:58 Asia/Calcutta] PHP Fatal error:  Call to undefined function courses() in /home/thehee3f/public_html/vnrinstitute.com/application/views/page/courses.php on line 10
+[27-Nov-2017 12:04:14 Asia/Calcutta] PHP Fatal error:  Call to undefined function courses() in /home/thehee3f/public_html/vnrinstitute.com/application/views/page/courses.php on line 10
+[27-Nov-2017 21:48:16 Asia/Calcutta] PHP Fatal error:  Call to undefined function courses() in /home/thehee3f/public_html/vnrinstitute.com/application/views/page/courses.php on line 10
+[02-Dec-2017 23:25:58 Asia/Calcutta] PHP Fatal error:  Call to undefined function courses() in /home/thehee3f/public_html/vnrinstitute.com/application/views/page/courses.php on line 10
+[07-Dec-2017 18:51:53 Asia/Calcutta] PHP Fatal error:  Call to undefined function courses() in /home/thehee3f/public_html/vnrinstitute.com/application/views/page/courses.php on line 10
+[08-Dec-2017 10:51:53 Asia/Calcutta] PHP Fatal error:  Call to undefined function courses() in /home/thehee3f/public_html/vnrinstitute.com/application/views/page/courses.php on line 10
+[10-Dec-2017 18:29:22 Asia/Calcutta] PHP Fatal error:  Call to undefined function courses() in /home/thehee3f/public_html/vnrinstitute.com/application/views/page/courses.php on line 10
+[11-Dec-2017 03:40:44 Asia/Calcutta] PHP Fatal error:  Call to undefined function courses() in /home/thehee3f/public_html/vnrinstitute.com/application/views/page/courses.php on line 10
+[11-Dec-2017 03:40:50 Asia/Calcutta] PHP Fatal error:  Call to undefined function courses() in /home/thehee3f/public_html/vnrinstitute.com/application/views/page/courses.php on line 10
+[11-Dec-2017 03:40:51 Asia/Calcutta] PHP Fatal error:  Call to undefined function courses() in /home/thehee3f/public_html/vnrinstitute.com/application/views/page/courses.php on line 10
+[12-Dec-2017 00:27:24 Asia/Calcutta] PHP Fatal error:  Call to undefined function courses() in /home/thehee3f/public_html/vnrinstitute.com/application/views/page/courses.php on line 10
+[12-Dec-2017 12:29:19 Asia/Calcutta] PHP Fatal error:  Call to undefined function courses() in /home/thehee3f/public_html/vnrinstitute.com/application/views/page/courses.php on line 10
+[12-Dec-2017 12:29:20 Asia/Calcutta] PHP Fatal error:  Call to undefined function courses() in /home/thehee3f/public_html/vnrinstitute.com/application/views/page/courses.php on line 10
+[14-Dec-2017 00:12:31 Asia/Calcutta] PHP Fatal error:  Call to undefined function courses() in /home/thehee3f/public_html/vnrinstitute.com/application/views/page/courses.php on line 10
+[15-Dec-2017 00:37:19 Asia/Calcutta] PHP Fatal error:  Call to undefined function courses() in /home/thehee3f/public_html/vnrinstitute.com/application/views/page/courses.php on line 10
+[16-Dec-2017 17:32:58 Asia/Calcutta] PHP Fatal error:  Call to undefined function courses() in /home/thehee3f/public_html/vnrinstitute.com/application/views/page/courses.php on line 10
+[17-Dec-2017 02:09:22 Asia/Calcutta] PHP Fatal error:  Call to undefined function courses() in /home/thehee3f/public_html/vnrinstitute.com/application/views/page/courses.php on line 10
+[17-Dec-2017 10:49:26 Asia/Calcutta] PHP Fatal error:  Call to undefined function courses() in /home/thehee3f/public_html/vnrinstitute.com/application/views/page/courses.php on line 10
+[18-Dec-2017 16:20:54 Asia/Calcutta] PHP Fatal error:  Call to undefined function courses() in /home/thehee3f/public_html/vnrinstitute.com/application/views/page/courses.php on line 10
+[18-Dec-2017 20:07:24 Asia/Calcutta] PHP Fatal error:  Call to undefined function courses() in /home/thehee3f/public_html/vnrinstitute.com/application/views/page/courses.php on line 10
