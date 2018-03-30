@@ -1,10 +1,11 @@
 <html>
 <head>
-	<title>VNR INSTITUTE</title>
+	<title>Admin - Sikh Terrain</title>
  <meta charset="utf-8" />
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
  <link href="<?=base_url('assets/css/bootstrap.min.css')?>" rel="stylesheet">
  <link href="<?=base_url('assets/css/main.css')?>" rel="stylesheet">
+ <link href="<?=base_url('assets/css/admin-part.css')?>" rel="stylesheet">
  </head>
 	<body>
      <nav class="navbar navbar-default">

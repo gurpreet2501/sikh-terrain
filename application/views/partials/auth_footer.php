@@ -1,18 +1,8 @@
 <div class="spacer-100"></div>
 <div class="row">
 	<div class="col-xs-12">
-		<div class="col-xs-2"><a href="#"><img src="<?=base_url()?>/images/cashless.jpg" class="zoom-in" /></div></a>
-		<div class="col-xs-2"><a href="#"><img src="<?=base_url()?>/images/ceo.jpg" class="zoom-in" /></div></a>
-		<div class="col-xs-2"><a href="#"><img src="<?=base_url()?>/images/sideabar-ad.jpg" class="zoom-in" /></div></a>
-		<div class="col-xs-2"><a href="#"><img src="<?=base_url()?>/images/di.jpg" class="zoom-in" /></div></a>
-		<div class="col-xs-2"><a href="#"><img src="<?=base_url()?>/images/fardimage.jpg" class="zoom-in" /></div></a>
-		<div class="col-xs-2"><a href="#"><img src="<?=base_url()?>/images/download.jpg" class="zoom-in" /></div></a>
-	</div>
-</div>	
-<div class="row">
-	<div class="col-xs-12">
 		<div class="footer text-center">
-			Copyright &copy; 2017
+			Copyright &copy; 2018
 		</div>
 	</div>
 </div>
