@@ -61,7 +61,7 @@
 						<h4 class="modal-title" id="myModalLabel">Hire me</h4>
 					</div>
 					<div class="modal-body">
-						<form action="#" id="hireform" method="post">
+						<form action="#" method="post">
 							<div class="row">
 							<div class="col col-sm-6">
 							  <div class="input-field has-icon"> <i class="fa fa-user"></i>
@@ -122,7 +122,7 @@
 				</div>
 			</div>
 		</div>
-	</div><!--/#wrapper-->
+	</div><!--/ main #wrapper-->
 <script src="<?=base_url('assets/js/jquery.js')?>"></script>
 <script src="<?=base_url('assets/js/bootstrap.min.js')?>"></script>
 <script src="<?=base_url('assets/js/waypoints.min.js')?>"></script>

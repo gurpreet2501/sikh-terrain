@@ -18,7 +18,8 @@
 		"symfony/dependency-injection": "^3.2",
 		"guzzlehttp/guzzle": "^6.2",
 		"symfony/http-foundation": "^3.2",
-		"robmorgan/phinx": "^0.8.0"
+		"robmorgan/phinx": "^0.8.0",
+		"claviska/simpleimage": "^3.3"
 	},
 	"suggest": {
 		"paragonie/random_compat": "Provides better randomness in PHP 5.x"

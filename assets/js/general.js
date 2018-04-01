@@ -448,24 +448,24 @@
 						email: "This field is required.",
 						message: "This field is required."
 					}
-				},
-				submitHandler: function(form) {
-					$("#loading").fadeIn(function(){
-						$.ajax({
-						  type: form.method,
-						  url:  "contact.php",
-						  data: $(form).serialize(),
-						  success: function(response){							  
-							$("#loading").fadeOut();							  
-							if(response === '1') {
-								$("#successmsg").show().delay(5000).fadeOut();
-							} else {								
-								$("#errormsg").show().delay(5000).fadeOut();
-							}
-						  }
-						});
-				  });
 				}
+				// submitHandler: function(form) {
+				// 	$("#loading").fadeIn(function(){
+				// 		$.ajax({
+				// 		  type: form.method,
+				// 		  url:  "contact.php",
+				// 		  data: $(form).serialize(),
+				// 		  success: function(response){							  
+				// 			$("#loading").fadeOut();							  
+				// 			if(response === '1') {
+				// 				$("#successmsg").show().delay(5000).fadeOut();
+				// 			} else {								
+				// 				$("#errormsg").show().delay(5000).fadeOut();
+				// 			}
+				// 		  }
+				// 		});
+				//   });
+				// }
 			});
 
 		}	
@@ -486,24 +486,24 @@
 						hireemail: "This field is required.",
 						hiremessage: "This field is required."
 					}
-				},
-				submitHandler: function(form) {
-					$("#loading01").fadeIn(function(){
-						$.ajax({
-						  type: form.method,
-						  url:  "hire.php",
-						  data: $(form).serialize(),
-						  success: function(response){							  
-							$("#loading01").fadeOut();							  
-							if(response === '1') {
-								$("#successmsg01").show().delay(5000).fadeOut();
-							} else {								
-								$("#errormsg01").show().delay(5000).fadeOut();
-							}
-						  }
-						});
-				  });
 				}
+				// submitHandler: function(form) {
+				// 	$("#loading01").fadeIn(function(){
+				// 		$.ajax({
+				// 		  type: form.method,
+				// 		  url:  "hire.php",
+				// 		  data: $(form).serialize(),
+				// 		  success: function(response){							  
+				// 			$("#loading01").fadeOut();							  
+				// 			if(response === '1') {
+				// 				$("#successmsg01").show().delay(5000).fadeOut();
+				// 			} else {								
+				// 				$("#errormsg01").show().delay(5000).fadeOut();
+				// 			}
+				// 		  }
+				// 		});
+				//   });
+				// }
 			});
 
 		}	
