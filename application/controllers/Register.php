@@ -26,7 +26,7 @@ class Register extends CI_Controller
 		$reg_obj = Models\CustomerRegistrations::create($data);
 		$reg_id = $reg_obj->id;
 		
-		if(isset($_FILES['user_image'])){
+		if(!empty($_FILES['user_image']['name'])){
 			$img_name = $this->imageProcessing($_FILES['user_image'], $reg_id);
 			Models\CustomerRegistrations::where('id',$reg_id)->update([
 				'event_image' => $img_name
@@ -39,7 +39,7 @@ class Register extends CI_Controller
 	}
 
 	function imageProcessing($img_obj,$reg_id){
-		
+		 $hash = sha1(time().rand(1,1000)*rand(1,1000));
 		// $my_file = new ImageUploader($img_obj['name']);
 		$imageUploader = new ImageUploader();
 
@@ -50,7 +50,7 @@ class Register extends CI_Controller
 		$imageUploader->setSalt("my_application_specific_salt");  // It is used while hashing image names
 		$imageUploader->setMinFileSize(0);                           // Set minimum file size in bytes
 		$imageUploader->setMaxFileSize(9345354000000);   
-		$img_name = $imageUploader->upload($img_obj, "my_id");
+		$img_name = $imageUploader->upload($img_obj, $hash);
 		return $img_name;
 		
 	}

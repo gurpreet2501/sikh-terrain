@@ -16,6 +16,7 @@
 								</div><!--/.col-->
 								
 							</div><!--/.row-->
+							<?php $this->load->view('common/messages'); ?> 
 							<form  action='register/registration_post' method="post" enctype="multipart/form-data"></form>
 							<?php echo form_open_multipart('register/registration_post'); ?>
 							<!-- <form class="reg_form" id="reg_1" action="<?=site_url('register/registration_post')?>" enctype="multipart/form-data" method="post" accept-charset="utf-8"> -->

@@ -56,11 +56,12 @@
 						<div class="navigation-row col-sm-10 col-xs-5">
 							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mainmenu"><span class="menulines"></span></button>
 							<?php $this->load->view('partials/menu'); ?>
-							
+
 						</div>
 					</div>
 				</div>
 			</nav>
 		</header><!--/#header-->
 		<!--header end-->
-		
+		<div class="margin-top-150"></div>	
+		<?php $this->load->view('common/messages'); ?> 
