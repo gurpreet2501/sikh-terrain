@@ -25,27 +25,27 @@
 								</div><!--/.input-field-->
 								<div class="input-field has-icon">
 									<label>Email:</label>
-									<input type="email" required class="form-control" name="name" placeholder="Enter your Email"> 
+									<input type="email" required class="form-control" name="email" placeholder="Enter your Email"> 
 								</div><!--/.input-field-->
 								<div class="input-field has-icon">
 									<label>Phone:</label>
-									<input type="text" required class="form-control" name="name" placeholder="Enter your Contact no." > 
+									<input type="text" required class="form-control" name="phone" placeholder="Enter your Contact no." > 
 								</div><!--/.input-field-->
 								<div class="input-field has-icon">
 									<label>City:</label>
-									<input type="text" required class="form-control" name="name" placeholder="Enter your City" > 
+									<input type="text" required class="form-control" name="city" placeholder="Enter your City" > 
 								</div><!--/.input-field-->
 								<div class="input-field has-icon">
 									<label>State:</label>
-									<input type="text" required class="form-control" name="name" placeholder="Enter your State" > 
+									<input type="text" required class="form-control" name="state" placeholder="Enter your State" > 
 								</div><!--/.input-field-->
 								<div class="input-field has-icon">
 									<label>Country:</label>
-									<input type="text" required class="form-control" name="name" placeholder="Enter your Country" > 
+									<input type="text" required class="form-control" name="country" placeholder="Enter your Country" > 
 								</div><!--/.input-field-->
 								<div class="input-field has-icon">
 									<label>Zip:</label>
-									<input type="text" required class="form-control" name="name" placeholder="Enter your location Zipcode" > 
+									<input type="text" required class="form-control" name="zip" placeholder="Enter your location Zipcode" > 
 								</div><!--/.input-field-->
 								<div class="form-group input-field">
 								<label>Upload Image</label>

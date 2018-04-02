@@ -21,16 +21,24 @@ class Register extends CI_Controller
 	function registration_post()
 	{	
 		
-		echo "<pre>";
-		print_r($_POST);
-		exit;
-		if(isset($_FILES['user_image']))
-			$this->imageProcessing($_FILES['user_image'],$registration_id);
+		$data = $_POST;
 
+		$reg_obj = Models\CustomerRegistrations::create($data);
+		$reg_id = $reg_obj->id;
+		
+		if(isset($_FILES['user_image'])){
+			$img_name = $this->imageProcessing($_FILES['user_image'], $reg_id);
+			Models\CustomerRegistrations::where('id',$reg_id)->update([
+				'event_image' => $img_name
+			]);
+		}
+
+		success('Registration Successfull');
+		redirect('/register');
 
 	}
 
-	function imageProcessing($img_obj){
+	function imageProcessing($img_obj,$reg_id){
 		
 		// $my_file = new ImageUploader($img_obj['name']);
 		$imageUploader = new ImageUploader();
@@ -43,9 +51,7 @@ class Register extends CI_Controller
 		$imageUploader->setMinFileSize(0);                           // Set minimum file size in bytes
 		$imageUploader->setMaxFileSize(9345354000000);   
 		$img_name = $imageUploader->upload($img_obj, "my_id");
-		echo "<pre>";
-		print_r($img_name);
-		exit;
+		return $img_name;
 		
 	}
 }
