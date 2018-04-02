@@ -152,15 +152,7 @@ class ImageUploader
       throw new \Exception("No image with given name uploaded");
     }
 
-    if (!file_exists($this->path)) {
-      throw new \Exception("Given path does not exists");
-    }
-
-    if ($this->min_file_size !== null
-      && $this->max_file_size !== null
-      && $this->min_file_size > $this->max_file_size) {
-      throw new \Exception("Invalid file size parameters");
-    }
+ 
   }
 
   /**
