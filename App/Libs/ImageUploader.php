@@ -2,6 +2,10 @@
 namespace App\Libs;
 class ImageUploader
 {
+
+// Library Name
+  // DhavalKapil/image-uploader
+
   /**
    * The path to upload the images
    *
