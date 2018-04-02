@@ -36,7 +36,7 @@ class Register extends CI_Controller
 		$imageUploader = new ImageUploader();
 
 		// Compulsory
-		$imageUploader->setPath("assets/images");   // The directory where images will be uploaded
+		$imageUploader->setPath("assets/images/registrations");   // The directory where images will be uploaded
 
 		// The rest are optional
 		$imageUploader->setSalt("my_application_specific_salt");  // It is used while hashing image names

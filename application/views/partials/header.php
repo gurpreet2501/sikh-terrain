@@ -3,7 +3,7 @@
 
 <!-- Mirrored from pixlogix.com/themes/html/mybio/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 30 Mar 2018 16:06:10 GMT -->
 <head>
-	<title>MyBio - One Page Personal Portfolio HTML Template</title>
+	<title>Home - Sikh Terrain</title>
 	<meta name="description" content="A creative, unique design, minimal and onepage PSD template to showcase your work and portfolio to the world in interactive way.">
 	<meta name="keywords" content="1440 Bootstrap grid, clean, corporate, creative, modern, onepage, personal, portfolio, profile, resume, skills, ui ux design">
 	<meta charset="utf-8">
@@ -55,25 +55,8 @@
 						</div>
 						<div class="navigation-row col-sm-10 col-xs-5">
 							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mainmenu"><span class="menulines"></span></button>
-							<nav class="collapse navbar-collapse pull-right" id="mainmenu">
-								<ul class="nav navbar-nav scrollnav">
-									<li class="active"><a href="#home">Home</a></li>
-									<li><a href="#about">About us</a></li>
-									<li><a href="#services">Our Services</a></li>
-									<li><a href="#portfolio">Portfolio</a></li>
-									<li><a href="#pricing">Pricing</a></li>
-									<li>
-										<a href="#blog">Blog</a>
-										<ul>
-											<li><a href="blog.html">Blog</a></li>
-											<li><a href="blog-detail.html">Blog detail</a></li>
-											<li><a href="elements.html">Elements</a></li>
-										</ul>
-									</li>
-									<li><a href="#contact">Contact</a></li>
-									<li class="hire-btn header-btn"><a href="#" data-toggle="modal" data-target="#hireme"><i class="glyphicon glyphicon-user"></i> Hire me</a></li>
-								</ul>
-							</nav><!--/#mainmenu-->
+							<?php $this->load->view('partials/menu'); ?>
+							
 						</div>
 					</div>
 				</div>
@@ -86,15 +69,15 @@
 			<div class="banner-section section-dark">
 				<div class="main-slider owl-carousel">
 					<div class="item">
-						<div class="slide-img bg-cover" style="background-image: url(images/slide-01.jpg);"></div>
+						<div class="slide-img bg-cover" style="background-image: url(assets/images/slide-01.jpg);"></div>
 						<div class="slider-contentbox v-middle text-lg">
 							<div class="container">
 								<div class="row">
 									<div class="col col-sm-6 col-lg-5">
 										<div class="slider-content animate-me">
-											<h2>I am Designer</h2>
+											<h2>Welcome to Sikh Terrain</h2>
 											<p>Lorem ipsum dolor sit amet, consectetur Iscing elit. Cras lacinia magna vel molestie faucibus</p>
-											<div class="btn-row"><a href="#" class="btn">Hire me <span><i class="fa fa-chevron-right"></i></span></a></div>
+											<div class="btn-row"><a href="<?=site_url('register')?>" class="btn">Register For Events <span><i class="fa fa-chevron-right"></i></span></a></div>
 										</div><!--/.slider-content-->
 									</div>
 								</div>
@@ -102,15 +85,15 @@
 						</div><!--/.slider-contentbox-->
 					</div><!--/.item-->
 					<div class="item">
-						<div class="slide-img bg-cover" style="background-image: url(images/slide-02.jpg);"></div>
+						<div class="slide-img bg-cover" style="background-image: url(assets/images/slide-02.jpg);"></div>
 						<div class="slider-contentbox v-middle text-lg">
 							<div class="container">
 								<div class="row">
 									<div class="col col-sm-6 col-lg-5">
 										<div class="slider-content animate-me">
-									<h2>I am Designer</h2>
+									<h2>Welcome to Sikh Terrain</h2>
 									<p>Lorem ipsum dolor sit amet, consectetur Iscing elit. Cras lacinia magna vel molestie faucibus</p>
-									<div class="btn-row"><a href="#" class="btn">Hire me <span><i class="fa fa-chevron-right"></i></span></a></div>
+									<div class="btn-row"><a href="<?=site_url('register')?>" class="btn">Register For Events <span><i class="fa fa-chevron-right"></i></span></a></div>
 								</div><!--/.slider-content-->
 									</div>
 								</div>
@@ -118,15 +101,15 @@
 						</div><!--/.slider-contentbox-->
 					</div><!--/.item-->
 					<div class="item">
-						<div class="slide-img bg-cover" style="background-image: url(images/slide-03.jpg);"></div>
+						<div class="slide-img bg-cover" style="background-image: url(assets/images/slide-03.jpg);"></div>
 						<div class="slider-contentbox v-middle text-lg">
 							<div class="container">
 								<div class="row">
 									<div class="col col-sm-6 col-lg-5">
 										<div class="slider-content animate-me">
-									<h2>I am Designer</h2>
+									<h2>Welcome to Sikh Terrain</h2>
 									<p>Lorem ipsum dolor sit amet, consectetur Iscing elit. Cras lacinia magna vel molestie faucibus</p>
-									<div class="btn-row"><a href="#" class="btn">Hire me <span><i class="fa fa-chevron-right"></i></span></a></div>
+									<div class="btn-row"><a href="<?=site_url('register')?>" class="btn">Register For Events <span><i class="fa fa-chevron-right"></i></span></a></div>
 								</div><!--/.slider-content-->
 									</div>
 								</div>

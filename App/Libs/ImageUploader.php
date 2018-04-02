@@ -318,6 +318,7 @@ class ImageUploader
     $this->reprocessImage($image, $callback);
     
     $extension =  pathinfo($image['name'],PATHINFO_EXTENSION);
+    
     $img_name = $identifier.$extension;
   
     $destination_path = $this->getImagePath($identifier).'.'.$extension;

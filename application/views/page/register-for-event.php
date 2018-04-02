@@ -1,4 +1,4 @@
-<?php $this->load->view('partials/header'); ?>
+<?php $this->load->view('partials/header-without-slider'); ?>
 		<div id="main">
 			<!--contact section start-->
 			<div id="contact" class="contact-section contact-box">
@@ -10,7 +10,7 @@
 								<div class="col col-sm-12">
 									<div class="contact-info text-center">
 										<span class="contact-icon"><i class="icon-chat"></i></span>
-										<h3 class="text-black">Register For Event</h3>
+										<h3 class="text-black">Register For Events</h3>
 										
 									</div><!--/.contact-info-->
 								</div><!--/.col-->
@@ -27,10 +27,31 @@
 									<label>Email:</label>
 									<input type="email" required class="form-control" name="name" placeholder="Enter your Email"> 
 								</div><!--/.input-field-->
-								<div class="form-group">
-								<input type="file" name="user_image"  />
-								<input type="submit" value="upload" />
+								<div class="input-field has-icon">
+									<label>Phone:</label>
+									<input type="text" required class="form-control" name="name" placeholder="Enter your Contact no." > 
+								</div><!--/.input-field-->
+								<div class="input-field has-icon">
+									<label>City:</label>
+									<input type="text" required class="form-control" name="name" placeholder="Enter your City" > 
+								</div><!--/.input-field-->
+								<div class="input-field has-icon">
+									<label>State:</label>
+									<input type="text" required class="form-control" name="name" placeholder="Enter your State" > 
+								</div><!--/.input-field-->
+								<div class="input-field has-icon">
+									<label>Country:</label>
+									<input type="text" required class="form-control" name="name" placeholder="Enter your Country" > 
+								</div><!--/.input-field-->
+								<div class="input-field has-icon">
+									<label>Zip:</label>
+									<input type="text" required class="form-control" name="name" placeholder="Enter your location Zipcode" > 
+								</div><!--/.input-field-->
+								<div class="form-group input-field">
+								<label>Upload Image</label>
+									<input type="file" name="user_image"  class"form-control" />
 								</div>
+								<input type="submit" value="Register" class="btn btn-warning" />
 							</form>
 			
 						</div><!--/.contact-box-->

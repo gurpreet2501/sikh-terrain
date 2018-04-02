@@ -2,3 +2,28 @@
     display: none;
     z-index: 1
 }
+
+.navigation-menu {
+    background: rgba(0,0,0,.8);
+}
+
+.btn-success,.btn-success:hover {
+    color: #fff;
+    background-color: #449d44;
+    border-color: #398439;
+}
+
+.btn-warning{
+	color: #000;
+    background-color: #E9A401;
+    border-color: #fff;
+    border:none;
+
+}
+
+.btn-warning:hover {
+	color: #fff;
+	background-color: #6c5b35;
+	border-color: #000;
+	border:none;
+}
