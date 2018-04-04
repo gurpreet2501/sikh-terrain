@@ -6,7 +6,8 @@ return [
 
 'username' => 'root',
 
-'password' => ''
+'password' => '',
+'base_url' => 'http://singhterrainlocal.com'
 
 ];
 

@@ -10,7 +10,10 @@ class Home extends CI_Controller
 	}
 
 	function index()
-	{
+	{	
+		if(!$this->tank_auth->is_logged_in())
+			return;
+		
 		$this->load->view('home');
 	}
 }

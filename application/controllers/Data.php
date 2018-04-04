@@ -40,6 +40,21 @@ class Data extends CI_Controller {
 
 	}
 
+	public function registrations(){
+		  
+			$crud = new grocery_CRUD();
+			$crud->set_theme('datatables');
+			$crud->set_table('customer_registrations');
+			$crud->unset_add();
+			$crud->columns('name','email','phone','event_image','city','state');
+			$crud->set_field_upload('event_image','assets/images/registrations');
+			$crud->field_type('created_at','hidden',date('Y-m-d H:i:s'));
+			$crud->field_type('updated_at','hidden',date('Y-m-d H:i:s'));
+			$output = $crud->render();
+			$this->_example_output($output);
+
+	}
+
 
 
 	function on_update_encrypt_password_callback($post_array){

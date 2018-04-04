@@ -5,6 +5,7 @@
    
      
 
+        <li><a href="<?=site_url('data/registrations')?>">Registrations</a></li>
         <li class="dropdown" id='data-management-menu'>
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Manage Gallery<span class="caret"></span></a>
           <ul class="dropdown-menu">
